@@ -16,7 +16,7 @@ I have hands-on experience in:
 
 ### 👨‍💻 **Projects**
 Check out all of my projects here:  
-[GitHub Portfolio](https://github.com/Maram-Alsoudani/Maram-Alsoudani.git)
+[GitHub Portfolio](https://github.com/Maram-Alsoudani)
 
 ---
 
@@ -28,5 +28,5 @@ Check out all of my projects here:
 
 ### 📫 **Contact**
 - **Email**: [maram.alsoudani@gmail.com](mailto:maram.alsoudani@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/maram-alsoudani](https://linkedin.com/in/maram-alsoudani)
-
+- **LinkedIn**: [linkedin.com/in/maram-alsoudani](https://linkedin.com/in/maram-alsoudani)  
+- **GitHub**: [github.com/Maram-Alsoudani](https://github.com/Maram-Alsoudani)
