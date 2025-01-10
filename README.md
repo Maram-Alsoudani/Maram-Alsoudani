@@ -12,7 +12,7 @@
 
 
 
-👨‍💻 All of my projects are available at (Portfolio) [https://oso020.github.io/oso0220.github.io/](https://github.com/Maram-Alsoudani/Maram-Alsoudani.git)
+👨‍💻 All of my projects are available at (Portfolio) [https://github.com/Maram-Alsoudani/Maram-Alsoudani.git]
 
 💬 Ask me about Flutter & Dart
 
